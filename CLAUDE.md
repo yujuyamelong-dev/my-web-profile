@@ -23,7 +23,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **마크업**: HTML5 (시맨틱 마크업)
 - **스타일**: CSS3, TailwindCSS (유틸리티 기반)
 - **동적 기능**: Vanilla JavaScript
-- **배포**: GitHub Pages 또는 Netlify
+- **배포**: GitHub Pages
 
 ## 개발 명령어
 
