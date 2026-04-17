@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "WebFetch(domain:as2.ftcdn.net)"
+    ]
+  },
+  "outputStyle": "default",
+  "plansDirectory": ".claude/plans/"
+}
